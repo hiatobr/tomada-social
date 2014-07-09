@@ -1,4 +1,0 @@
-tomada-social
-=============
-
-tomada-social
